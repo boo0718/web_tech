@@ -8,7 +8,7 @@ cgi.out("type" =>"text/html","charset" =>"UTF-8"){
 
   "<html>
     <body>
-      <p>ゴーヤの大きさと売った相手の情報は下記になります</p>
+      <p>譲渡先が自家消費ではないもの,品質が悪いもののgoyaの情報</p>
       文字列:#{get}
     </body>
   </html>"
